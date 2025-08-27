@@ -64,9 +64,9 @@ const Footer = () => {
             <div className="flex items-center space-x-3">
               {/* Updated logo background to golden-yellow */}
               <div className="w-12 h-12 bg-yellow-400 rounded-lg flex items-center justify-center">
-                <span className="text-gray-900 font-montserrat font-bold text-xl">D</span>
+                <span className="text-gray-900 font-montserrat font-bold text-xl">A</span>
               </div>
-              <span className="font-montserrat font-bold text-2xl">DigiTransform</span>
+              <span className="font-montserrat font-bold text-2xl">AppJug</span>
             </div>
             
             <p className="font-poppins text-gray-300 leading-relaxed">
@@ -146,7 +146,7 @@ const Footer = () => {
                 {/* Updated icon color and link hover color */}
                 <Phone className="h-5 w-5 text-yellow-400 flex-shrink-0" />
                 <a href="tel:+15551234567" className="font-poppins text-gray-300 hover:text-yellow-400 transition-colors duration-300">
-                  +1 (555) 123-4567
+                  +91 9733231123
                 </a>
               </div>
               
@@ -154,7 +154,7 @@ const Footer = () => {
                 {/* Updated icon color and link hover color */}
                 <Mail className="h-5 w-5 text-yellow-400 flex-shrink-0" />
                 <a href="mailto:hello@digitransform.com" className="font-poppins text-gray-300 hover:text-yellow-400 transition-colors duration-300">
-                  hello@digitransform.com
+                  appjug@gmail.com
                 </a>
               </div>
             </div>
@@ -184,7 +184,7 @@ const Footer = () => {
         <div className="border-t border-white/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="font-poppins text-gray-400 text-center md:text-left">
-              © 2024 DigiTransform. All rights reserved. | Privacy Policy | Terms of Service
+              © 2021 Appjug. All rights reserved. | Privacy Policy | Terms of Service
             </p>
             
             <button
