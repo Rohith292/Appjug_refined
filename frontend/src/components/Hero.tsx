@@ -4,9 +4,9 @@ import DEMO from '../assets/cover.png';
 
 const Hero = () => {
   const achievements = [
-    { number: '200+', label: 'Projects Completed' },
-    { number: '50+', label: 'Happy Clients' },
-    { number: '99%', label: 'Success Rate' }
+    { number: '20+', label: 'Projects Completed' },
+    { number: '15+', label: 'Happy Clients' },
+    { number: '100%', label: 'Success Rate' }
   ];
 
   return (
@@ -74,7 +74,7 @@ const Hero = () => {
             <div className="flex items-center space-x-3 mt-8 pt-8 border-t border-white/10">
               <CheckCircle className="h-5 w-5 text-green-400" />
               <span className="font-poppins text-sm text-gray-400">
-                Trusted by Fortune 500 companies worldwide
+                Trusted by our clients to deliever full fledged working models.
               </span>
             </div>
           </div>
