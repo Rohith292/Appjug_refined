@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ArrowRight, Sparkles, Play, CheckCircle } from 'lucide-react';
 import DEMO from '../assets/cover.png';
 

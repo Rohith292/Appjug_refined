@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Target, Lightbulb, Users, Award } from 'lucide-react';
 import AnimatedText from './AnimatedText';

@@ -28,7 +28,7 @@ export const useScrollAnimation = (threshold = 0.1) => {
   return [ref, isVisible] as const;
 };
 
-export const useStaggeredAnimation = (itemCount: number, delay = 0.1) => {
+export const useStaggeredAnimation = () => {
   const [isVisible, setIsVisible] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 

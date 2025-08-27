@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { ChevronDown, CheckCircle, Users, Zap, Shield, Headphones } from 'lucide-react';
 import AnimatedText from './AnimatedText';
