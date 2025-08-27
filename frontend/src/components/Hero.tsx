@@ -25,7 +25,7 @@ const Hero = () => {
             <div className="flex items-center space-x-3 mb-6">
               <Sparkles className="h-6 w-6 text-yellow-400 animate-pulse" />
               <span className="font-poppins text-lg text-gray-300 tracking-wide">
-                Digital Excellence Since 2020
+                Digital Excellence Since 2021
               </span>
             </div>
 
