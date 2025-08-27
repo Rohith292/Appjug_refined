@@ -1,5 +1,5 @@
 import React from 'react';
-import { motion,type Variants, type Transition } from 'framer-motion';
+import { motion, type Transition } from 'framer-motion';
 
 interface AnimatedTextProps {
   text: string;
